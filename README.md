@@ -4,7 +4,7 @@ Self taught developer. My main coding tools are Python, JavaScript, HTLM, CSS an
 🚀 Always learning<br>
 🦄 Ask me about my <strong>projects</strong><br>
 👩🏾‍💻 I love tech, building and managing digital products<br>
-🥰 My purpose in life is to make people feel they belong<br>
+🔭Looking for opportunities in  Data Science, Product Management and Software Development.<br>
 
 If you see anything you like send me a message on my  <a href="https://www.linkedin.com/in/ianvrr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
