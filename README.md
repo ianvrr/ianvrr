@@ -20,7 +20,7 @@ Found something inttresting, let's connect:
 </a>
 <br>
 
-Tools and technologies
+### :hammer_and_wrench: Tools and technologies
 ---
 <div style="display: inline_block"><br>
   <img align="center" alt="Anwar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -28,6 +28,7 @@ Tools and technologies
   <img align="center" alt="Anwar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Anwar-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Anwar-SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Anwar-Confluence" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg">
 </div>
 <br>
 
