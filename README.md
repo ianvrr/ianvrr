@@ -6,7 +6,8 @@ Welcome! I'm a self taught developer. My main coding tools are Python, JavaScrip
 👩🏾‍💻 I love tech, building and managing digital products<br>
 🔭 Looking for opportunities in  Data Science, Product Management and Software Development.<br>
 
-Found something inttresting, let's connect <br> </br>    <a href="https://www.linkedin.com/in/ianvrr/" target="_blank"><img align='center' src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+Found something inttresting, let's connect:
+<a href="https://www.linkedin.com/in/ianvrr/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
 -----
 
@@ -17,11 +18,7 @@ Found something inttresting, let's connect <br> </br>    <a href="https://www.li
 <a href="https://github.com/ianvrr/ianvrr">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ianvrr&show_icons=true&line_height=27&include_all_commits=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=contribs&theme=tokyonight" alt="ianvrr's GitHub Stats" />
 </a>
-
 <br>
-
-
-
 
 Tools and technologies
 ---
