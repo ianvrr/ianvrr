@@ -6,7 +6,7 @@ Welcome! I'm a self taught developer. My main coding tools are Python, JavaScrip
 👩🏾‍💻 I love tech, building and managing digital products<br>
 🔭 Looking for opportunities in  Data Science, Product Management and Software Development.<br>
 
-Found something inttresting, let's connect     <a href="https://www.linkedin.com/in/ianvrr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+Found something inttresting, let's connect <br> </br>    <a href="https://www.linkedin.com/in/ianvrr/" target="_blank"><img align='center' src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
 -----
 
