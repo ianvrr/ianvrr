@@ -13,11 +13,11 @@ Found something intresting, let's connect:
 ---
 
 ## &#x1f4c8; GitHub Stats
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ianvrr&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ianvrr/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ianvrr&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ianvrr/github-readme-stats#gh-light-mode-only)
+[![Anwar's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ianvrr&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ianvrr/github-readme-stats#gh-dark-mode-only)
+[![Anwar's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ianvrr&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ianvrr/github-readme-stats#gh-light-mode-only)
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ianvrr&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ianvrr&theme=default&hide_border=true)](https://git.io/streak-stats)<br>
 
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianvrr&layout=compact&langs_count=10)](https://github.com/ianvrr/github-readme-stats)
