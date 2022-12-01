@@ -40,4 +40,4 @@ Found something intresting, let's connect:
 ![](https://img.icons8.com/color/64/000000/confluence.png)
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Arigatho!&fontAlign=80&fontAlignY=70&color=gradient&section=footer)
-![](https://visitor-badge.glitch.me/badge?page_id=valid22.visitor-badge)
+![](https://visitor-badge.glitch.me/badge?page_id=ianvrr.visitor-badge)
