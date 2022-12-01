@@ -1,4 +1,4 @@
-# Hey Amigos! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+`# Hey Amigos! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Konnichiwa&fontAlign=70&fontAlignY=40&color=gradient)<br>
 I'm a self taught developer. My main coding tools are Python, JavaScript, HTLM, CSS and SQL.
 
@@ -14,7 +14,7 @@ Found something intresting, let's connect:
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/ianvrr/ianvrr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ianvrr&show_icons=true&line_height=27&include_all_commits=true&count_private=true&title_color=ffff66&text_color=c9cacc&icon_color=33bbff&bg_color=1d1f21&hide=contribs&theme=tokyonight" alt="ianvrr's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ianvrr&show_icons=true&line_height=27&include_all_commits=true&count_private=true&title_color=ffe14d&text_color=c9cacc&icon_color=ffe14d&bg_color=1d1f21&hide=contribs&theme=tokyonight" alt="ianvrr's GitHub Stats" />
 </a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=koumudi-panguluri&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)<br>
