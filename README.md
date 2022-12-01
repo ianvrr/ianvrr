@@ -15,9 +15,8 @@ Found something intresting, let's connect:
 <a href="https://github.com/ianvrr/ianvrr">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianvrr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact" />
 </a>
-<br>
 <a href="https://github.com/ianvrr/ianvrr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ianvrr&show_icons=true&line_height=27&include_all_commits=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=contribs&theme=tokyonight" alt="ianvrr's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ianvrr&show_icons=true&line_height=27&include_all_commits=true&count_private=true&title_color=ffff66&text_color=c9cacc&icon_color=33bbff&bg_color=1d1f21&hide=contribs&theme=tokyonight" alt="ianvrr's GitHub Stats" />
 </a>
 <br>
 
@@ -48,7 +47,8 @@ Found something intresting, let's connect:
 ianvrr/ianvrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!--
+
+<!---
 ## Things I use on a daily basis
 
 <p align="left">  
@@ -71,4 +71,5 @@ You can click the Preview link to take a look at your changes.
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
 </a>
 
-# Made with :purple_heart: using components from [Readme components](https://github.com/harish-sethuraman/readme-components)-->
+# Made with :purple_heart: using components from [Readme components](https://github.com/harish-sethuraman/readme-components)
+--->
