@@ -34,7 +34,7 @@ Found something intresting, let's connect:
 ![](https://img.icons8.com/color/64/000000/javascript.png)
 ![](https://img.icons8.com/color/64/000000/react.png)
 ![](https://img.icons8.com/color/64/000000/html-5.png)
-![](https://img.icons8.com/color/64/000000/css.png)
+![](https://img.icons8.com/color/64/000000/css3.png)
 ![](https://img.icons8.com/color/64/000000/mysql.png)
 ![](https://img.icons8.com/color/64/000000/mongodb.png)
 ![](https://img.icons8.com/color/64/000000/confluence.png)
