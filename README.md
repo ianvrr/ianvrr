@@ -1,5 +1,5 @@
 # Hey Amigos! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Welcome! I'm a self taught developer. My main coding tools are Python, JavaScript, HTLM, CSS and SQL.
+Welcome to my profile! I'm a self taught developer. My main coding tools are Python, JavaScript, HTLM, CSS and SQL.
 
 🚀 Always learning<br>
 🦄 Ask me about my <strong>projects</strong><br>
