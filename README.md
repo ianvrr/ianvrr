@@ -20,9 +20,7 @@ Found something intresting, let's connect:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ianvrr&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)<br>
 
 ##
-<a href="https://github.com/ianvrr/ianvrr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ianvrr&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&layout=compact"/>
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianvrr&layout=compact&theme=tokyonight)](https://github.com/ianvrr/github-readme-stats)
 
 ---
 
