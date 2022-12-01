@@ -1,4 +1,4 @@
-`# Hey Amigos! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey Amigos! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Konnichiwa&fontAlign=70&fontAlignY=40&color=gradient)<br>
 I'm a self taught developer. My main coding tools are Python, JavaScript, HTLM, CSS and SQL.
 
@@ -13,14 +13,14 @@ Found something intresting, let's connect:
 ---
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/ianvrr/ianvrr">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ianvrr&show_icons=true&line_height=27&include_all_commits=true&count_private=true&title_color=ffe14d&text_color=c9cacc&icon_color=ffe14d&bg_color=1d1f21&hide=contribs&theme=tokyonight" alt="ianvrr's GitHub Stats" />
-</a>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ianvrr&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ianvrr/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=ianvrr&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/ianvrr/github-readme-stats#gh-light-mode-only)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=koumudi-panguluri&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)<br>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ianvrr&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)<br>
 
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianvrr&layout=compact&theme=tokyonight)](https://github.com/koumudi-panguluri/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianvrr&layout=compact&langs_count=10)](https://github.com/ianvrr/github-readme-stats)
 
 ---
 
