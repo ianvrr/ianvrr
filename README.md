@@ -17,10 +17,10 @@ Found something intresting, let's connect:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ianvrr&show_icons=true&line_height=27&include_all_commits=true&count_private=true&title_color=ffff66&text_color=c9cacc&icon_color=33bbff&bg_color=1d1f21&hide=contribs&theme=tokyonight" alt="ianvrr's GitHub Stats" />
 </a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ianvrr&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=koumudi-panguluri&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)<br>
 
 ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianvrr&layout=compact&theme=tokyonight)](https://github.com/ianvrr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ianvrr&layout=compact&theme=tokyonight)](https://github.com/koumudi-panguluri/github-readme-stats)
 
 ---
 
