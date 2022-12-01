@@ -1,11 +1,11 @@
 # Hey Amigos! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Konnichiwa&fontAlign=70&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Konnichiwa&fontAlign=70&fontAlignY=40&color=gradient)<br>
 I'm a self taught developer. My main coding tools are Python, JavaScript, HTLM, CSS and SQL.
 
 🚀 Always learning<br>
 🦄 Ask me about my <strong>projects</strong><br>
 👩🏾‍💻 I love tech, building and managing digital products<br>
-🔭 Looking for opportunities in  Data Science, Product Management and Software Development.<br>
+🔭 Looking for opportunities in  <strong>Data Science, Product Management</strong> and <strong>Software Development.</strong><br>
 
 Found something intresting, let's connect:
 <a href="https://www.linkedin.com/in/ianvrr/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
