@@ -1,6 +1,6 @@
 # Hey Amigos! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Konnichiwa&fontAlign=70&fontAlignY=40&color=gradient)<br>
-I'm a self taught developer. My main coding tools are Python, JavaScript, HTML, CSS and SQL.
+I'm Anwar, currently working as Data Analyst at ADP (2yrs of WorkEx.)
 
 🚀 Always learning<br>
 🦄 Ask me about my <strong>projects</strong><br>
