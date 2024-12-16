@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Konnichiwa&fontAlign=70&fontAlignY=40&color=gradient)<br>
 I'm Anwar, currently working as Data Analyst at ADP (2yrs of WorkEx.)
 
-🚀 Always learning<br>
+🚀 Currently learning Machine Learning (CS229 - Stanford) and DSA<br>
 🦄 Ask me about my <strong>projects</strong><br>
 👩🏾‍💻 I love tech, building and managing digital products<br>
 🔭 Looking for opportunities in  <strong>Data Science, Product Management</strong> and <strong>Software Development.</strong><br>
